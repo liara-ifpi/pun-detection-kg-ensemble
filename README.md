@@ -160,8 +160,7 @@ These results support ablation studies and graph-feature comparisons.
 
 ## Citing This Work
 
-If you use this repository — the reorganized splits, the code, or the results —
-please cite the paper associated with it:
+If you use this repository, please cite the paper associated with it:
 
 ```bibtex
 @inproceedings{sousa-etal-2026-extending,
