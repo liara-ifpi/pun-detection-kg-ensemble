@@ -158,6 +158,35 @@ These results support ablation studies and graph-feature comparisons.
 
 ---
 
+## Citing This Work
+
+If you use this repository — the reorganized splits, the code, or the results —
+please cite the paper associated with it:
+
+```bibtex
+@inproceedings{sousa-etal-2026-extending,
+    title = "Extending an Ensemble Baseline with Corpus-Based Graph Features for {P}ortuguese Pun Detection",
+    author = "Sousa, Avelar Rodrigues de  and
+      Sousa, Camilla Soares  and
+      Barros, Carlos Henrique Santos  and
+      Anchi{\^e}ta, Rafael Torres",
+    editor = "Souza, Marlo  and
+      de-Dios-Flores, Iria  and
+      Santos, Diana  and
+      Freitas, Larissa  and
+      Souza, Jackson Wilke da Cruz  and
+      Ribeiro, Eug{\'e}nio",
+    booktitle = "Proceedings of the 17th International Conference on Computational Processing of {P}ortuguese ({PROPOR} 2026) - Vol. 1",
+    month = apr,
+    year = "2026",
+    address = "Salvador, Brazil",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.propor-1.75/",
+    pages = "759--769",
+    ISBN = "979-8-89176-387-6",
+}
+```
+
 ## License
 
 This project is released under the MIT License.  
